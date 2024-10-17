@@ -1,18 +1,36 @@
-# 💫 About Me:
-👋 Hi, I’m @purskyi, a Mathematics graduate with a passion for Android development and a flair for technology innovation.<br><br>🌱 I’m currently honing my skills in Android development, leveraging my experience in the IT field to build intuitive mobile solutions that push the boundaries of innovation.<br><br>💞️ I’m looking to collaborate on projects that merge mathematics, technology, and creativity, whether it's developing cutting-edge Android apps or tinkering with IoT gadgets to create real-world solutions.<br><br>⚡ Fun fact: I'm a fresh, young, and ambitious individual with a passion for skydiving, always seeking new heights in both my personal and professional endeavors!
+# 💼 About Me:  
 
+Greetings! I am **Andrii Purskyi**, a Mathematics graduate with a deep-rooted interest in **Mobile development** and a passion for driving **technological innovation**.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ Andrii Purskyi) 
+💡 **Collaboration Interests**:  
+I am eager to engage in projects where **mathematics, technology, and creativity intersect**—whether it's developing innovative Android apps or working with IoT solutions to bring ideas to life.  
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=purskyi &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=purskyi &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=purskyi &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🌐 Connect with Me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-purskyi)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 💻 Tech Stack:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/jetpack%20compose-%2300C4CC.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Coroutines-%236db33f.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics:  
+![](https://github-readme-streak-stats.herokuapp.com/?user=purskyi&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=purskyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+---
+
+### ✍️ Inspirational Quote:  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
